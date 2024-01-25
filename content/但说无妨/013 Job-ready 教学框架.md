@@ -3,8 +3,6 @@ title: Job-ready 教学框架
 date: 2022-03-14
 permalink: essay/job-ready-learning
 ---
-# Job-ready 教学框架
-
 去年在 Coursera 上完了几门 Google 负责教学的产品设计、项目管理和数据分析等课程，感觉和企业合作的类似内训课程的教学框架，和以往在 Coursera 上参与由高校主导制作的课程，确实有很大差异。
 
 最显著的是从头到尾强调的 Job-ready，按我的理解即面向职场与转行求职为方向的内容，在课程中得到非常多的体现。

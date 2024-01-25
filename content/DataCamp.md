@@ -1,10 +1,10 @@
 ---
-title: DataCamp 数据分析专业认证
+title: DataCamp
 latest: 2024-01-10
 permalink: datacamp-da-pro-cert
 publish: true
 ---
-# DataCamp DA Professional Certification
+## DataCamp DA Professional Certification
 
 ![[8585a1d4-85b5-4b70-b9c5-b59af4a5962e.png]]
 
