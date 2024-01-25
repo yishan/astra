@@ -2,5 +2,20 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## 你好，我是 Yishan
+
+产品设计 & 用户体验设计师
+数据分析与可视化探索中
+
+从 2010 年开始接触网页设计，并延展到更多互联产品设计项目，逐渐对用户体验设计与用户研究感兴趣，同时也在工作中带领团队完成多个项目。
+
+在过程中我认为自己对消费者行为习惯、产品生命周期以及供应链等方面积累了稍多的经验。这两年我开始接触数据分析与可视化方面的内容，也在观察 AI 行业的发展与相关的机会。 
+
+持续阅读，持续思考 🙆🏻‍♂️
+
+## 在这些地方找到我
+
+- 公众号 → impm013
+- [小红书](https://www.xiaohongshu.com/user/profile/5c0cd528f7e8b95f0e136e35)
+- [即刻](https://okjk.co/EDH2Nb)
+- [read.cv](https://read.cv/liyishan)
