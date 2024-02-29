@@ -8,8 +8,7 @@ permalink: index
 
 ## 你好，我是 Yishan
 
-产品设计 & 用户体验设计师
-数据分析与可视化探索中
+产品 & 用户体验设计
 
 从 2010 年开始接触网页设计，并延展到更多互联产品设计项目，逐渐对用户体验设计与用户研究感兴趣，同时也在工作中带领团队完成多个项目。
 
@@ -20,9 +19,10 @@ permalink: index
 ## 在这些地方找到我
 
 - 公众号 → impm013
-- [小红书](https://www.xiaohongshu.com/user/profile/5c0cd528f7e8b95f0e136e35)
-- [即刻](https://okjk.co/EDH2Nb)
+- [小红书](https://www.xiaohongshu.com/user/profile/5c0cd528f7e8b95f0e136e35) → Yishan 壹山
+- [即刻](https://okjk.co/EDH2Nb) → Yishan
 - [read.cv](https://read.cv/liyishan)
+- [[liyishan-resume-24.pdf|resume]]
 
 ## Essay
 
@@ -40,6 +40,8 @@ permalink: index
 
 关注近期令我产生好奇与兴趣的跨领域内容，不限于科技、设计、人文与现实生活中会遇到的问题。
 
+- [[有所启发 006]] - 挑战权威，惯性调侃，良好午休，劳动错觉，以及一些AI资讯
+- [[有所启发 005]] - 用户体验监管，Sora，空间视频价值，AI 聊天机器人法律责任与无障碍设计
 - [[有所启发 004]] - Arc Search，PH 2023 年度产品，设计的秘诀，餐饮趋势和延迟满足
 - [[有所启发 003]] - 苹果欧盟新规，反AI艺术工具，更便宜的人工支出，以及最大摄氧量
 -  [[有所启发 002]] - Meta，Arc Browser，苹果税，作为装饰的图书以及抢夺注意力的路牌
