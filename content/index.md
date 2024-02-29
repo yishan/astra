@@ -4,7 +4,7 @@ latest: 2023-09-01
 publish: true
 permalink: index
 ---
-![[avatar.png]]
+![[avatarhm.png|240]]
 
 ## 你好，我是 Yishan
 
