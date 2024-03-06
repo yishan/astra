@@ -3,6 +3,8 @@ title: DataCamp
 latest: 2024-01-10
 permalink: datacamp-da-pro-cert
 publish: true
+aliases:
+  - datacamp
 ---
 ## DataCamp DA Professional Certification
 

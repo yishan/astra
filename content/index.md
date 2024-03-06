@@ -22,7 +22,7 @@ permalink: index
 - [小红书](https://www.xiaohongshu.com/user/profile/5c0cd528f7e8b95f0e136e35) → Yishan 壹山
 - [即刻](https://okjk.co/EDH2Nb) → Yishan
 - [read.cv](https://read.cv/liyishan)
-- [[liyishan-resume-24.pdf|resume]] [[portfolio|portfolio]]
+- [[liyishan-resume-24.pdf|resume]] [[作品集|portfolio]]
 
 ## Essay
 
