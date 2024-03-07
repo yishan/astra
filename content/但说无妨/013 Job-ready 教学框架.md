@@ -2,6 +2,9 @@
 title: Job-ready 教学框架
 date: 2022-03-14
 permalink: essay/job-ready-learning
+tags:
+  - 产品
+  - 培训
 ---
 去年在 Coursera 上完了几门 Google 负责教学的产品设计、项目管理和数据分析等课程，感觉和企业合作的类似内训课程的教学框架，和以往在 Coursera 上参与由高校主导制作的课程，确实有很大差异。
 

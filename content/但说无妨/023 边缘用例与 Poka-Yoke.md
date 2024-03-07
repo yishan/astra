@@ -2,6 +2,9 @@
 title: 边缘用例与 Poka-Yoke
 date: 2023-05-01
 permalink: essay/edge-cases-poka-yoke
+tags:
+  - 产品
+  - 设计
 ---
 > 任何可能出错的事情都会出错。
 
