@@ -3,9 +3,12 @@ title: 关于我
 latest: 2023-09-01
 publish: true
 permalink: index
+aliases:
+  - home
 ---
-![[avatarhm.png|240]]
+![[avatarhm.png|160]]
 
+> [!hint] Ambition is like mass. The more you have, the stronger your gravitational pull.
 ## 你好，我是 Yishan
 
 产品 & 用户体验设计
@@ -22,7 +25,7 @@ permalink: index
 - [小红书](https://www.xiaohongshu.com/user/profile/5c0cd528f7e8b95f0e136e35) → Yishan 壹山
 - [即刻](https://okjk.co/EDH2Nb) → Yishan
 - [read.cv](https://read.cv/liyishan)
-- [[liyishan-resume-24.pdf|resume]] [[作品集|portfolio]]
+- [[liyishan-resume-24.pdf|resume]] [[portfolio|portfolio]]
 
 ## Essay
 
@@ -46,13 +49,13 @@ permalink: index
 - [[有所启发 004]] - Arc Search，PH 2023 年度产品，设计的秘诀，餐饮趋势和延迟满足
 - [[有所启发 003]] - 苹果欧盟新规，反AI艺术工具，更便宜的人工支出，以及最大摄氧量
 -  [[有所启发 002]] - Meta，Arc Browser，苹果税，作为装饰的图书以及抢夺注意力的路牌
--  [[有所启发 001]] - GPT store，Rabbit r1，Quora 以及超级 AI 的长期价值分歧
+-  [[Astra Inspired 001|有所启发 001]] - GPT store，Rabbit r1，Quora 以及超级 AI 的长期价值分歧
 
 ## 数据兴趣
 
 去年拿到了 DataCamp 的数据分析专业认证。
 
-对我了解数据分析帮助很大 → [[DataCamp|拿到 DataCamp 专业数据分析认证的记录]]
+对我了解数据分析帮助很大 → [[datacamp|拿到 DataCamp 专业数据分析认证的记录]]
 
 ## 但说无妨
 

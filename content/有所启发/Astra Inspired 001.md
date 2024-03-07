@@ -6,6 +6,7 @@ permalink: astra-inspired-001
 project: Newsletter
 aliases:
   - Astra Inspired 001
+title: 有所启发 001
 ---
 我回来了。
 
@@ -95,7 +96,7 @@ AI Impacts [近期对参与过超级人工智能领域的研究人员做了一�
 - [[有所启发 004]] - Arc Search，PH 2023 年度产品，设计的秘诀，餐饮趋势和延迟满足
 - [[有所启发 003]] - 苹果欧盟新规，反AI艺术工具，更便宜的人工支出，以及最大摄氧量
 -  [[有所启发 002]] - Meta，Arc Browser，苹果税，作为装饰的图书以及抢夺注意力的路牌
--  [[有所启发 001]] - GPT store，Rabbit r1，Quora 以及超级 AI 的长期价值分歧
+-  [[Astra Inspired 001|有所启发 001]] - GPT store，Rabbit r1，Quora 以及超级 AI 的长期价值分歧
 
 ---
 

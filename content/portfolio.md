@@ -1,8 +1,7 @@
 ---
-aliases:
-  - portfolio
 permalink: portfolio
 created: 2024-03-06
+title: 作品集
 ---
 # 基础能力
 

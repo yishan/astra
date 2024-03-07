@@ -1,8 +1,8 @@
 ---
 permalink: thoughts-in-ksana
-title: 灵光闪现
+title: 灵光闪现 Ksana
 aliases:
-  - Ksana
+  - ksana
 latest: 2024-01-05
 publish: true
 ---
